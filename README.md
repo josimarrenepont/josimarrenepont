@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Josimar Renepont
-- 👀 I’m developer back-end
-- 🌱 I’m Java, Python back-end operating area
+ 👋 **Hi, my name is Josimar Renepont**<br>
+ :computer: **I’m developer back-end**<br>
+ 
 
 <div style="display: inline_block"><br>
 <img align="center" alt="renepont-Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">

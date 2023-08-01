@@ -21,10 +21,19 @@
   <a href="https://www.linkedin.com/in/josimar-renepont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<h1 font-weight="bold"> My Github Stats 🏆</h1>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josimarrenepont&show_icons=true&theme=radical)
-<div>
-<img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josimarrenepont&layout=compact&langs_count=7&theme=radical">
-<a href="#"></a></div>
+
+<div align='center'>
+<img alt="stats" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josimarrenepont&layout=compact&langs_count=7&theme=radical">
+<a href="https://git.io/streak-stats">
+   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=josimarrenepont&theme=radical" alt="GitHub Streak">
+</a>
+  <a href="#">
+    <img  src="https://github-profile-trophy.vercel.app/?username=josimarrenepont&theme=radical&row=1&column=6" alt="trophy">
+  </a>
+</div>
 
 <!---
 josimarrenepont/josimarrenepont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

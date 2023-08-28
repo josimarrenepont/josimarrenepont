@@ -5,6 +5,7 @@
 Sou apaixonado por programação, altamente comprometido em entregar resultados. 
 Tenho uma abordagem orientada a detalhes e uma mentalidade focada,
 em encontrar soluções eficientes. 
+<br>
 Desenvolver soluções, que viabilizem o dia a dia é sem dúvida gratificante.
 </p>
 

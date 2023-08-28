@@ -1,6 +1,6 @@
  👋 **Hi, my name is Josimar Renepont**<br>
  :computer: **I’m developer back-end**<br>
-<img align="right" src="https://github.com/josimarrenepont/josimarrenepont/assets/111367304/fdfb1fd0-ff11-46ef-bfe1-70b8554c13a3">
+<img align="right" src="https://github.com/josimarrenepont/josimarrenepont/assets/111367304/107e8ae6-4de5-4018-b0f9-a7ea129eea32">
 <p align="justify">
 Sou apaixonado por programação, altamente comprometido em entregar resultados. 
 Tenho uma abordagem orientada a detalhes e uma mentalidade focada,

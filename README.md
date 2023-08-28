@@ -1,24 +1,23 @@
  👋 **Hi, my name is Josimar Renepont**<br>
  :computer: **I’m developer back-end**<br>
- <img align="right" src="https://github.com/josimarrenepont/josimarrenepont/assets/111367304/fdfb1fd0-ff11-46ef-bfe1-70b8554c13a3">
- 
+<img align="right" src="https://github.com/josimarrenepont/josimarrenepont/assets/111367304/fdfb1fd0-ff11-46ef-bfe1-70b8554c13a3">
 <p align="justify">
- Sou apaixonado por programação, altamente comprometido em entregar resultados. 
- Tenho uma abordagem orientada a detalhes e uma mentalidade focada,
- em encontrar soluções eficientes. 
- Desenvolver soluções, que viabilizem o dia a dia é sem dúvida gratificante.
- </p>
+Sou apaixonado por programação, altamente comprometido em entregar resultados. 
+Tenho uma abordagem orientada a detalhes e uma mentalidade focada,
+em encontrar soluções eficientes. 
+Desenvolver soluções, que viabilizem o dia a dia é sem dúvida gratificante.
+</p>
 
  
 <div style="display: inline_block"><br>
-<img align="center" alt="renepont-Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="renepont-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="renepont-PostgreSQL" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="renepont-MongoDB" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-<img align="center" alt="renepont-Spring" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-<img align="center" alt="renepont-IntelliJ" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-<img align="center" alt="renepont-Vscode" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="center" alt="renepont-Docker" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" alt="renepont-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="renepont-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="renepont-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="renepont-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<img align="center" alt="renepont-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+<img align="center" alt="renepont-IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+<img align="center" alt="renepont-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<img align="center" alt="renepont-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ##

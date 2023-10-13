@@ -28,11 +28,10 @@ Desenvolver soluções, que viabilizem o dia a dia é sem dúvida gratificante.
   <a href = "mailto:contatorajnrenepont@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%230077B5?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josimar-renepont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+<div align='center'>
 <h1 font-weight="bold"> My Github Stats 🏆</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josimarrenepont&show_icons=true&theme=radical)
-
 <div align='center'>
 <img alt="stats" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josimarrenepont&layout=compact&langs_count=7&theme=radical">
 <a href="https://git.io/streak-stats">

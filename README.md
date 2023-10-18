@@ -19,6 +19,7 @@ Desenvolver soluções, que viabilizem o dia a dia é sem dúvida gratificante.
 <img align="center" alt="renepont-IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 <img align="center" alt="renepont-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="center" alt="renepont-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ 
 </div>
 
 ##
@@ -29,7 +30,7 @@ Desenvolver soluções, que viabilizem o dia a dia é sem dúvida gratificante.
   <a href="https://www.linkedin.com/in/josimar-renepont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div align='center'>
-<h1 font-weight="bold"> My Github Stats 🏆</h1>
+<h1 font-weight="bold"></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josimarrenepont&show_icons=true&theme=radical)
 <div align='center'>

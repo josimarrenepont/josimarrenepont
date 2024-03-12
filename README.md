@@ -41,9 +41,6 @@ Desenvolver soluções, que viabilizem o dia a dia é sem dúvida gratificante.
 <a href="https://git.io/streak-stats">
    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=josimarrenepont&theme=radical" alt="GitHub Streak">
 </a>
-  <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=josimarrenepont&theme=radical&row=1&column=6" alt="trophy">
-  </a>
 </div>
 
 <!---

@@ -22,6 +22,7 @@ Desenvolver soluções, que viabilizem o dia a dia é sem dúvida gratificante.
 <img align="center" alt="renepont-Vscode" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="center" alt="renepont-Eclipse" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
 <img align="center" alt="renepont-Docker" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" alt="renepont-Kubernetes" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
  
 </div>
 

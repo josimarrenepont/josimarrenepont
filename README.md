@@ -34,29 +34,39 @@
 
 ---
 
-### 📊 **GitHub Insights — My Coding Journey**
+### 📊 **GitHub Dashboard — My Dev Journey**
 
-<div align="center" style="margin-top: 15px; display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div align="center">
 
-  <!-- GitHub Stats -->
-  <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=josimarrenepont&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <p align="center">💻 Overall Contributions & Stats</p>
+<!-- Fundo gradiente animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:7928CA&height=50&section=header" alt="Animated Header"/>
+
+<div style="display:flex; justify-content:center; flex-wrap: wrap; gap:25px; margin-top:20px;">
+
+  <!-- GitHub Stats 3D -->
+  <div style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); padding: 10px; background: linear-gradient(135deg,#FF6B00,#7928CA);">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=josimarrenepont&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+    <p align="center" style="color:white; font-weight:bold;">💻 Contributions & Stats</p>
   </div>
 
-  <!-- Top Languages -->
-  <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josimarrenepont&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
-    <p align="center">📝 Most Used Languages</p>
+  <!-- Top Languages 3D -->
+  <div style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); padding: 10px; background: linear-gradient(135deg,#FF6B00,#7928CA);">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josimarrenepont&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+    <p align="center" style="color:white; font-weight:bold;">📝 Top Languages</p>
   </div>
 
-  <!-- GitHub Streak -->
-  <div>
+  <!-- GitHub Streak 3D -->
+  <div style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); padding: 10px; background: linear-gradient(135deg,#FF6B00,#7928CA);">
     <a href="https://git.io/streak-stats">
       <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=josimarrenepont&theme=radical&hide_border=true" alt="GitHub Streak"/>
     </a>
-    <p align="center">🔥 Current GitHub Streak</p>
+    <p align="center" style="color:white; font-weight:bold;">🔥 Current Streak</p>
   </div>
+
+</div>
+
+<!-- Footer animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF6B00&height=50&section=footer" alt="Animated Footer"/>
 
 </div>
 

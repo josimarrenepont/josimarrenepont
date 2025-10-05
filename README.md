@@ -34,17 +34,30 @@
 
 ---
 
-### 📊 **GitHub Insights**
+### 📊 **GitHub Insights — My Coding Journey**
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=josimarrenepont&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josimarrenepont&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
+<div align="center" style="margin-top: 15px; display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-<div align="center" style="margin-top:10px;">
-  <a href="https://git.io/streak-stats">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=josimarrenepont&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <!-- GitHub Stats -->
+  <div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=josimarrenepont&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <p align="center">💻 Overall Contributions & Stats</p>
+  </div>
+
+  <!-- Top Languages -->
+  <div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josimarrenepont&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+    <p align="center">📝 Most Used Languages</p>
+  </div>
+
+  <!-- GitHub Streak -->
+  <div>
+    <a href="https://git.io/streak-stats">
+      <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=josimarrenepont&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    </a>
+    <p align="center">🔥 Current GitHub Streak</p>
+  </div>
+
 </div>
 
 ---

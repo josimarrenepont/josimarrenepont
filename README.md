@@ -1,42 +1,70 @@
- 👋 **Hi, my name is Josimar Renepont**<br>
- :computer: **I’m developer back-end**<br>
+<!-- Header com animação e destaque -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#FF6B00;">Josimar Renepont</span></h1>
+<h3 align="center">💻 Back-End Developer | Building Scalable, Performant & Elegant Systems</h3>
 
- 
-<div style="display: inline_block"><br>
-<img align="center" alt="renepont-Java" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="renepont-Kotlin" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-<img align="center" alt="renepont-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="renepont-PostgreSQL" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="renepont-MongoDB" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-<img align="center" alt="renepont-Mysql" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="renepont-Spring" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-<img align="center" alt="renepont-IntelliJ" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-<img align="center" alt="renepont-Vscode" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="center" alt="renepont-Eclipse" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
-<img align="center" alt="renepont-Docker" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img align="center" alt="renepont-Kubernetes" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
- 
+<p align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="120px">
+</p>
+
+---
+
+### 🚀 **Tech Stack — The Tools That Power My Code**
+
+<div align="center" style="margin-top: 20px;">
+  <img alt="Java" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Kotlin" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img alt="Python" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Spring Boot" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="PostgreSQL" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MongoDB" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="MySQL" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Docker" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Kubernetes" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img alt="IntelliJ IDEA" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img alt="VS Code" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
-##
- 
-<div> 
-  <a href = "mailto:contatorajnrenepont@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%230077B5?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorajnrenepont@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josimar-renepont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<div align='center'>
-<h1 font-weight="bold"></h1>
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josimarrenepont&show_icons=true&theme=radical)
-<div align='center'>
-<img alt="stats" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josimarrenepont&layout=compact&langs_count=7&theme=radical">
-<a href="https://git.io/streak-stats">
-   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=josimarrenepont&theme=radical" alt="GitHub Streak">
-</a>
+### 🧠 **About Me**
+💡 Passionate about **Clean Architecture**, **Microservices**, and **Event-Driven Systems**.  
+⚙️ Experienced with **Spring Boot**, **Kafka**, **Docker**, and **Cloud-native development**.  
+🚀 Always learning through real-world projects and continuous improvement.  
+🎯 Focused on writing **clean, maintainable, and scalable code**.
+
+---
+
+### 📊 **GitHub Insights**
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=josimarrenepont&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josimarrenepont&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
-<!---
-josimarrenepont/josimarrenepont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center" style="margin-top:10px;">
+  <a href="https://git.io/streak-stats">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=josimarrenepont&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
+
+---
+
+### 🌐 **Let's Connect**
+
+<div align="center">
+  <a href="mailto:contatorajnrenepont@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="mailto:contatorajnrenepont@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/josimar-renepont/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:7928CA&height=100&section=footer"/>
+</p>

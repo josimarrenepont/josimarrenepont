@@ -38,35 +38,60 @@
 
 <div align="center">
 
-<!-- Fundo gradiente animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:7928CA&height=50&section=header" alt="Animated Header"/>
+<!-- Header animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:7928CA&height=80&section=header"/>
 
-<div style="display:flex; justify-content:center; flex-wrap: wrap; gap:25px; margin-top:20px;">
+<div style="display:flex; justify-content:center; flex-wrap: wrap; gap:30px; margin-top:30px;">
 
-  <!-- GitHub Stats 3D -->
-  <div style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); padding: 10px; background: linear-gradient(135deg,#FF6B00,#7928CA);">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=josimarrenepont&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-    <p align="center" style="color:white; font-weight:bold;">💻 Contributions & Stats</p>
+  <!-- GitHub Stats -->
+  <div style="
+      border-radius: 18px; 
+      padding: 18px; 
+      width: 330px;
+      background: rgba(0,0,0,0.35);
+      backdrop-filter: blur(4px);
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 8px 25px rgba(0,0,0,0.35);
+      transition: transform 0.3s;
+    ">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=josimarrenepont&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+    <p align="center" style="color:white; font-weight:bold; margin-top:10px;">💻 Contributions & Stats</p>
   </div>
 
-  <!-- Top Languages 3D -->
-  <div style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); padding: 10px; background: linear-gradient(135deg,#FF6B00,#7928CA);">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josimarrenepont&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-    <p align="center" style="color:white; font-weight:bold;">📝 Top Languages</p>
+  <!-- Top Languages -->
+  <div style="
+      border-radius: 18px; 
+      padding: 18px; 
+      width: 330px;
+      background: rgba(0,0,0,0.35);
+      backdrop-filter: blur(4px);
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 8px 25px rgba(0,0,0,0.35);
+      transition: transform 0.3s;
+    ">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josimarrenepont&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+    <p align="center" style="color:white; font-weight:bold; margin-top:10px;">📝 Top Languages</p>
   </div>
 
-  <!-- GitHub Streak 3D -->
-  <div style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); padding: 10px; background: linear-gradient(135deg,#FF6B00,#7928CA);">
-    <a href="https://git.io/streak-stats">
-      <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=josimarrenepont&theme=radical&hide_border=true" alt="GitHub Streak"/>
-    </a>
-    <p align="center" style="color:white; font-weight:bold;">🔥 Current Streak</p>
+  <!-- GitHub Streak -->
+  <div style="
+      border-radius: 18px; 
+      padding: 18px; 
+      width: 330px;
+      background: rgba(0,0,0,0.35);
+      backdrop-filter: blur(4px);
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 8px 25px rgba(0,0,0,0.35);
+      transition: transform 0.3s;
+    ">
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=josimarrenepont&theme=radical&hide_border=true"/>
+    <p align="center" style="color:white; font-weight:bold; margin-top:10px;">🔥 Current Streak</p>
   </div>
 
 </div>
 
 <!-- Footer animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF6B00&height=50&section=footer" alt="Animated Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF6B00&height=80&section=footer"/>
 
 </div>
 

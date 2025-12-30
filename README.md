@@ -15,6 +15,7 @@
   <img alt="Kotlin" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img alt="Python" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Spring Boot" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Kafka" height="55" src="https://cdn.simpleicons.org/apachekafka/white" />
   <img alt="PostgreSQL" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="MongoDB" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="MySQL" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
